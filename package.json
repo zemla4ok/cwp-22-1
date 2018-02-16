@@ -1,0 +1,23 @@
+{
+  "name": "@zemla4ok/cwp-22-1",
+  "version": "1.0.0",
+  "description": "my first npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zemla4ok/cwp-22-1.git"
+  },
+  "keywords": [
+    "lol",
+    "kek"
+  ],
+  "author": "Dimasik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zemla4ok/cwp-22-1/issues"
+  },
+  "homepage": "https://github.com/zemla4ok/cwp-22-1#readme"
+}
