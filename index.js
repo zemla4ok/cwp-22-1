@@ -1,4 +1,4 @@
-console.log('Hello, my dear frinend. It is v0.0.0');
+console.log('Hello, my dear frinend. It is v2.0.0');
 
 const Calculator = {
     calc: (expression) => {
@@ -46,7 +46,7 @@ const Calculator = {
     }
 }
 
-module.exports = (expression, message) => {
-    console.log(message);
+module.exports = (expression, text) => {
+    console.log(text);
     return Calculator.calc(expression);
 };
