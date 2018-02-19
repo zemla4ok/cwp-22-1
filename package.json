@@ -1,6 +1,6 @@
 {
   "name": "@zemla4ok/cwp-22-1",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "my first npm package",
   "main": "index.js",
   "scripts": {
